@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A408CF17-82EC-4B73-98F0-76A88786961A}</ProjectGuid>
+    <ProjectGuid>{ACB62079-80F4-4B37-9414-AE8ED8DE2C3F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Snake_LaddersGame</RootNamespace>
-    <AssemblyName>Snake&amp;LaddersGame</AssemblyName>
+    <RootNamespace>BankingSystem</RootNamespace>
+    <AssemblyName>BankingSystem</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BankAccount.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

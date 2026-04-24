@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.37203.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake&LaddersGame", "Snake&LaddersGame.csproj", "{A408CF17-82EC-4B73-98F0-76A88786961A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDeclaration", "ClassDeclaration.csproj", "{DAC010CB-95FB-441C-8FA2-B157889C7C21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A408CF17-82EC-4B73-98F0-76A88786961A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A408CF17-82EC-4B73-98F0-76A88786961A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A408CF17-82EC-4B73-98F0-76A88786961A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A408CF17-82EC-4B73-98F0-76A88786961A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC010CB-95FB-441C-8FA2-B157889C7C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC010CB-95FB-441C-8FA2-B157889C7C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC010CB-95FB-441C-8FA2-B157889C7C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC010CB-95FB-441C-8FA2-B157889C7C21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {565DD41A-4811-4706-8AD9-5EE7C023256D}
+		SolutionGuid = {84A0784D-E2FA-48B9-A87D-21FF0C5E1B87}
 	EndGlobalSection
 EndGlobal
